@@ -1,0 +1,322 @@
+[
+  {
+    "NAME": "Abant Izzet Baysal University Faculty of Medicine, Bolu",
+    "LAT": "40.719903",
+    "LNG": "31.526301"
+  },
+  {
+    "NAME": "Acibadem University School of Medicine, Istanbul",
+    "LAT": "40.9785275",
+    "LNG": "29.1102959"
+  },
+  {
+    "NAME": "Adıyaman University Faculty of Medicine",
+    "LAT": "37.744332",
+    "LNG": "38.229886"
+  },
+  {
+    "NAME": "Adnan Menderes University Faculty of Medicine, Aydın",
+    "LAT": "37.852469",
+    "LNG": "27.85455"
+  },
+  {
+    "NAME": "Afyon Kocatepe University Faculty of Medicine",
+    "LAT": "38.788966",
+    "LNG": "30.509558"
+  },
+  {
+    "NAME": "Akdeniz University Faculty of Medicine, Antalya",
+    "LAT": "36.891847",
+    "LNG": "30.658422"
+  },
+  {
+    "NAME": "Ankara University Faculty of Medicine",
+    "LAT": "39.933878",
+    "LNG": "32.883904"
+  },
+  {
+    "NAME": "Ataturk University Faculty of Medicine, Erzurum",
+    "LAT": "39.895385",
+    "LNG": "41.269345"
+  },
+  {
+    "NAME": "Balikesir University Faculty of Medicine",
+    "LAT": "39.538993",
+    "LNG": "28.009423"
+  },
+  {
+    "NAME": "Baskent University Faculty of Medicine, Ankara",
+    "LAT": "39.887779",
+    "LNG": "32.652469"
+  },
+  {
+    "NAME": "Bezmialem Medical Faculty, Istanbul",
+    "LAT": "41.018341",
+    "LNG": "28.936276"
+  },
+  {
+    "NAME": "Bozok University Faculty of Medicine, Yozgat",
+    "LAT": "39.818262",
+    "LNG": "34.796063"
+  },
+  {
+    "NAME": "Bulent Ecevit University School of Medicine, Zonguldak",
+    "LAT": "41.413478",
+    "LNG": "31.705548"
+  },
+  {
+    "NAME": "Canakkale Onsekiz Mart University Faculty of Medicine",
+    "LAT": "40.096023",
+    "LNG": "26.390812"
+  },
+  {
+    "NAME": "Celal Bayar University Faculty of Medicine, Manisa",
+    "LAT": "38.612586",
+    "LNG": "27.407372"
+  },
+  {
+    "NAME": "Cukurova University Faculty of Medicine, Adana",
+    "LAT": "37.055867",
+    "LNG": "35.363337"
+  },
+  {
+    "NAME": "Cumhuriyet University Faculty of Medicine, Sivas",
+    "LAT": "39.708083",
+    "LNG": "37.031573"
+  },
+  {
+    "NAME": "Dicle University Faculty of Medicine, Diyarbakir",
+    "LAT": "37.941457",
+    "LNG": "40.254757"
+  },
+  {
+    "NAME": "Dokuz Eylul University Faculty of Medicine, Izmir",
+    "LAT": "38.394245",
+    "LNG": "27.033364"
+  },
+  {
+    "NAME": "Duzce University Faculty of Medicine",
+    "LAT": "40.904302",
+    "LNG": "31.14727"
+  },
+  {
+    "NAME": "Ege University Faculty of Medicine, Izmir",
+    "LAT": "38.456751",
+    "LNG": "27.213796"
+  },
+  {
+    "NAME": "Erciyes University Faculty of Medicine, Kayseri",
+    "LAT": "38.704204",
+    "LNG": "35.52428"
+  },
+  {
+    "NAME": "Eskisehir Osmangazi University Faculty of Medicine",
+    "LAT": "39.751677",
+    "LNG": "30.49058"
+  },
+  {
+    "NAME": "Firat University Faculty of Medicine, Elazig",
+    "LAT": "38.682278",
+    "LNG": "39.205653"
+  },
+  {
+    "NAME": "Gazi University Faculty of Medicine, Ankara",
+    "LAT": "39.933425",
+    "LNG": "32.822342"
+  },
+  {
+    "NAME": "Gaziantep University Faculty of Medicine",
+    "LAT": "37.035324",
+    "LNG": "37.318814"
+  },
+  {
+    "NAME": "Gaziosmanpasa University Faculty of Medicine, Tokat",
+    "LAT": "40.309559",
+    "LNG": "36.551888"
+  },
+  {
+    "NAME": "Gulhane Askeri Tıp Akademisi Faculty of Medicine, Ankara",
+    "LAT": "39.965797",
+    "LNG": "32.842813"
+  },
+  {
+    "NAME": "Giresun University Faculty of Medicine",
+    "LAT": "40.915868",
+    "LNG": "38.387577"
+  },
+  {
+    "NAME": "Hacettepe University Faculty of Medicine, Ankara",
+    "LAT": "39.93076",
+    "LNG": "32.862983"
+  },
+  {
+    "NAME": "Harran University Faculty of Medicine, Sanliurfa",
+    "LAT": "37.159388",
+    "LNG": "38.786502"
+  },
+  {
+    "NAME": "Hitit University Faculty of Medicine, Corum",
+    "LAT": "40.570505",
+    "LNG": "34.980854"
+  },
+  {
+    "NAME": "Inonu University Faculty of Medicine, Malatya",
+    "LAT": "38.336759",
+    "LNG": "38.431647"
+  },
+  {
+    "NAME": "Istanbul Bilim University Faculty of Medicine",
+    "LAT": "41.069191",
+    "LNG": "29.012183"
+  },
+  {
+    "NAME": "Istanbul Faculty of Medicine, Istanbul University",
+    "LAT": "41.017219",
+    "LNG": "28.934442"
+  },
+  {
+    "NAME": "Istanbul Medipol University, Fatih",
+    "LAT": "41.021378",
+    "LNG": "28.959673"
+  },
+  {
+    "NAME": "Istanbul University Cerrahpasa Faculty of Medicine",
+    "LAT": "41.005786",
+    "LNG": "28.940053"
+  },
+  {
+    "NAME": "Kafkas University Faculty of Medicine, Kars",
+    "LAT": "40.583322",
+    "LNG": "43.07014"
+  },
+  {
+    "NAME": "Karadeniz Technical University School of Medicine, Trabzon",
+    "LAT": "40.997829",
+    "LNG": "39.770685"
+  },
+  {
+    "NAME": "Kahramanmaras Sutcu Imam University Faculty of Medicine",
+    "LAT": "37.585721",
+    "LNG": "36.821194"
+  },
+  {
+    "NAME": "Kırıkkale University Süleyman Demirel Research and Application Hospital",
+    "LAT": "39.836887",
+    "LNG": "33.498125"
+  },
+  {
+    "NAME": "Koc University School of Medicine, Sar?yer Istanbul",
+    "LAT": "41.206561",
+    "LNG": "29.073825"
+  },
+  {
+    "NAME": "Kocaeli University Faculty of Medicine",
+    "LAT": "40.824111",
+    "LNG": "29.919369"
+  },
+  {
+    "NAME": "Maltepe University Faculty of Medicine, Baglarbasi",
+    "LAT": "40.925195",
+    "LNG": "29.135181"
+  },
+  {
+    "NAME": "Marmara University Faculty of Medicine, Istanbul",
+    "LAT": "41.004361",
+    "LNG": "29.020467"
+  },
+  {
+    "NAME": "Mersin University Faculty of Medicine",
+    "LAT": "36.804302",
+    "LNG": "34.618856"
+  },
+  {
+    "NAME": "Mevlana University Faculty of Medicine, Selcuklu",
+    "LAT": "38.006493",
+    "LNG": "32.515883"
+  },
+  {
+    "NAME": "Mustafa Kemal University Faculty of Medicine, Antakya",
+    "LAT": "36.194641",
+    "LNG": "36.165923"
+  },
+  {
+    "NAME": "Namik Kemal University Faculty of Medicine, Tekirdag",
+    "LAT": "40.976861",
+    "LNG": "27.512866"
+  },
+  {
+    "NAME": "Near East University Faculty of Medicine, Lefkosa",
+    "LAT": "35.229062",
+    "LNG": "33.324764"
+  },
+  {
+    "NAME": "Ondokuz Mayis University Faculty of Medicine, Samsun",
+    "LAT": "41.370939",
+    "LNG": "36.210358"
+  },
+  {
+    "NAME": "Pamukkale University Faculty of Medicine, Denizli",
+    "LAT": "37.739171",
+    "LNG": "29.102715"
+  },
+  {
+    "NAME": "Recep Tayyip Erdogan University Faculty of Medicine, Rize",
+    "LAT": "41.038156",
+    "LNG": "40.494075"
+  },
+  {
+    "NAME": "Sakarya University Faculty of Medicine",
+    "LAT": "40.740922",
+    "LNG": "30.332891"
+  },
+  {
+    "NAME": "Selcuk University Meram Faculty of Medicine, Konya",
+    "LAT": "37.876543",
+    "LNG": "32.430939"
+  },
+  {
+    "NAME": "Sifa University Faculty of Medicine, Izmir",
+    "LAT": "38.448908",
+    "LNG": "27.181689"
+  },
+  {
+    "NAME": "Suleyman Demirel University Faculty of Medicine, Isparta",
+    "LAT": "37.82935",
+    "LNG": "30.526189"
+  },
+  {
+    "NAME": "Trakya University Faculty of Medicine, Edirne",
+    "LAT": "41.639036",
+    "LNG": "26.614798"
+  },
+  {
+    "NAME": "Turgut Ozal University Faculty of Medicine, Ankara",
+    "LAT": "39.972353",
+    "LNG": "32.824975"
+  },
+  {
+    "NAME": "Ufuk University Faculty of Medicine, Ankara",
+    "LAT": "39.91039",
+    "LNG": "32.813312"
+  },
+  {
+    "NAME": "Uludag University Faculty of Medicine, Bursa",
+    "LAT": "40.220151",
+    "LNG": "28.869254"
+  },
+  {
+    "NAME": "Yeditepe University Faculty of Medicine, Istanbul",
+    "LAT": "40.968949",
+    "LNG": "29.103598"
+  },
+  {
+    "NAME": "Yildirim Beyazit University Faculty of Medicine, Ankara",
+    "LAT": "39.946842",
+    "LNG": "32.856094"
+  },
+  {
+    "NAME": "Yuzuncu Yil University Faculty of Medicine, Van",
+    "LAT": "38.499767",
+    "LNG": "43.378701"
+  }
+]
