@@ -1,21 +1,19 @@
 <template>
-  <div>
-    <l-map :zoom="zoom" :center="center" style="height: 500px; width: 100%">
-      <l-tile-layer :url="url" :attribution="attribution" />
+  <l-map :zoom="zoom" :center="center" style="height: 98vh; width: 100%">
+    <l-tile-layer :url="url" :attribution="attribution" />
 
-      <l-marker
-        v-for="school in medicalSchoolsInfo"
-        :key="school.NAME"
-        :lat-lng="[school.LAT, school.LNG]"
-        :icon="icon"
-        @click="getCloserToSchool(school)"
-      >
-        <l-popup>
-          <div>{{ school.NAME }}</div>
-        </l-popup>
-      </l-marker>
-    </l-map>
-  </div>
+    <l-marker
+      v-for="school in medicalSchoolsInfo"
+      :key="school.NAME"
+      :lat-lng="[school.LAT, school.LNG]"
+      :icon="icon"
+      @click="getCloserToSchool(school)"
+    >
+      <l-popup>
+        <div>{{ school.NAME }}</div>
+      </l-popup>
+    </l-marker>
+  </l-map>
 </template>
 
 <script>
@@ -39,11 +37,11 @@ export default {
       center: latLng(39.9207893, 32.8540412),
       url: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
       attribution:
-        '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+        '&copy; <a target="_blank" href="https://www.linkedin.com/in/mustafa-erk-548a32126/">Mustafa ERK</a> contributors',
       icon: icon({
         iconUrl: MarkerIcon,
         iconSize: [24, 30],
-        iconAnchor: [16, 30],
+        iconAnchor: [12, 15],
       }),
       medicalSchoolsInfo: [],
     };
@@ -59,16 +57,4 @@ export default {
 };
 </script>
 
-<style>
-.someExtraClass {
-  background-color: aqua;
-  padding: 10px;
-  border: 1px solid #333;
-  border-radius: 0 20px 20px 20px;
-  box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.2);
-  text-align: center;
-  width: auto !important;
-  height: auto !important;
-  margin: 0 !important;
-}
-</style>
+
