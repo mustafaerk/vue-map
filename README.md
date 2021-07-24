@@ -1,24 +1,10 @@
-# vue-map
-
+**All medical schools list in Turkey view on Map **
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+``` ###  How to run Project``` 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+``` npm install``` 
 
-### Lints and fixes files
-```
-npm run lint
-```
+``` npm run serve```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
